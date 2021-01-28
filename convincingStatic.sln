@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convincingStatic", "convincingStatic\convincingStatic.csproj", "{C4B0224F-BB5D-4D42-A7AD-6391E7C0A4BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4B0224F-BB5D-4D42-A7AD-6391E7C0A4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B0224F-BB5D-4D42-A7AD-6391E7C0A4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B0224F-BB5D-4D42-A7AD-6391E7C0A4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B0224F-BB5D-4D42-A7AD-6391E7C0A4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {527E40C3-DF85-4A79-AEAF-782463EAF5C7}
+	EndGlobalSection
+EndGlobal

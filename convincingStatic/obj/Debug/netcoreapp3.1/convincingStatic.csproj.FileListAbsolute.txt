@@ -1,0 +1,16 @@
+C:\Users\Denis\Desktop\Новая папка C#\convincingStatic\convincingStatic\bin\Debug\netcoreapp3.1\convincingStatic.exe
+C:\Users\Denis\Desktop\Новая папка C#\convincingStatic\convincingStatic\bin\Debug\netcoreapp3.1\Images\img1.jpg
+C:\Users\Denis\Desktop\Новая папка C#\convincingStatic\convincingStatic\bin\Debug\netcoreapp3.1\convincingStatic.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\convincingStatic\convincingStatic\bin\Debug\netcoreapp3.1\convincingStatic.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\convincingStatic\convincingStatic\bin\Debug\netcoreapp3.1\convincingStatic.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\convincingStatic\convincingStatic\bin\Debug\netcoreapp3.1\convincingStatic.dll
+C:\Users\Denis\Desktop\Новая папка C#\convincingStatic\convincingStatic\bin\Debug\netcoreapp3.1\convincingStatic.pdb
+C:\Users\Denis\Desktop\Новая папка C#\convincingStatic\convincingStatic\obj\Debug\netcoreapp3.1\convincingStatic.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\convincingStatic\convincingStatic\obj\Debug\netcoreapp3.1\convincingStatic.MainForm.resources
+C:\Users\Denis\Desktop\Новая папка C#\convincingStatic\convincingStatic\obj\Debug\netcoreapp3.1\convincingStatic.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Новая папка C#\convincingStatic\convincingStatic\obj\Debug\netcoreapp3.1\convincingStatic.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\convincingStatic\convincingStatic\obj\Debug\netcoreapp3.1\convincingStatic.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\convincingStatic\convincingStatic\obj\Debug\netcoreapp3.1\convincingStatic.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\convincingStatic\convincingStatic\obj\Debug\netcoreapp3.1\convincingStatic.dll
+C:\Users\Denis\Desktop\Новая папка C#\convincingStatic\convincingStatic\obj\Debug\netcoreapp3.1\convincingStatic.pdb
+C:\Users\Denis\Desktop\Новая папка C#\convincingStatic\convincingStatic\obj\Debug\netcoreapp3.1\convincingStatic.genruntimeconfig.cache
